@@ -279,7 +279,13 @@
 
       - **git checkout其实是用版本库里的版本替换工作区的版本，无论工作区是修改还是删除，都可以“一键还原”。**
 
-      
+## 远程仓库
+
+1. 将仓库更新至Github
+   - git push -u github master					#远程库是空时，第一次push该仓库 需要加-u
+   - git push github master                        #后面不用加
+
+
 
 
 
