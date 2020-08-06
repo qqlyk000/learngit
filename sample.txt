@@ -2,3 +2,5 @@ simple to learn anything
 빨리해
 搞快点
 software.
+Git is a distributed version control system.
+stupid
