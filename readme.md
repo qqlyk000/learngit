@@ -22,7 +22,7 @@
 
 3. 创建本地仓库
 
-   - 创建空目录:horse:
+   - 创建空目录
 
      ```powershell
      $ mkdir fileName        		#新建名为fileName的空文件夹
@@ -284,8 +284,4 @@
 1. 将仓库更新至Github
    - git push -u github master					#远程库是空时，第一次push该仓库 需要加-u
    - git push github master                        #后面不用加
-
-
-
-
 
