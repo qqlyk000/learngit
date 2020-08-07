@@ -283,6 +283,19 @@
 ## 远程仓库
 
 1. 将仓库更新至Github
-   - git push -u github master					#远程库是空时，第一次push该仓库 需要加-u
-   - git push github master                        #后面不用加
+   
+2. ```powershell
+   $ git push -u github master					#远程库是空时，第一次push该仓库 需要加-u
+   $ git push github master                    #如果该远程库不是第一次提交 不用加-u
+   ```
+
+3. 
+
+   - 
+
+4. 克隆Github代码至本地仓库
+
+   - ```powershell
+     $ git clone git@github.com:michaelliao/gitskills.git
+     ```
 
