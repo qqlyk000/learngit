@@ -44,9 +44,10 @@
 
      ```powershell
      $ git add readme.md			#放入到目录下，再用add告诉Git仓库添加该文件
+     $ git add .                 #一次添加全部文件
      ```
 
-   - 提交事务  可以多次add一次commit
+   - 提交事务  可以多次add一次commit     
 
      ```powershell
      $ git commit -m "anything"			#双引号内输入本次提交的注释 重要！必写！
